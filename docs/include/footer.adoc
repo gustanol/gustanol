@@ -1,0 +1,7 @@
+:space-delimiter: &nbsp;&nbsp;&nbsp;
+
+[.text-center,.linkcolor="#ffffff"]
+mailto:{email}[icon:at[fw,size=2x,role=gray]] {space-delimiter}
+link:{github-url}[icon:github[fw,size=2x,role=gray]] {space-delimiter}
+link:{linkedin-url}[icon:linkedin[fw,size=2x,role=gray]] {space-delimiter}
+link:{github-url}/gustanol[icon:code[fw,size=2x,role=gray]]

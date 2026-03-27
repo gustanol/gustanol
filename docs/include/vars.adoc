@@ -1,0 +1,14 @@
+:author: Gustavo S. Aleixos
+:email: gustanol.me@gmail.com
+:toc: left
+:toc-title: Index
+:toclevels: 2
+:icons: font
+:linkattrs:
+:sectnums:
+
+:username: gustanol
+
+// Social Links (Used as attributes)
+:github-url: https://github.com/{username}
+:linkedin-url: https://linkedin.com/in/{username}

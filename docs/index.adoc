@@ -1,0 +1,34 @@
+include::include/vars.adoc[]
+= Gustavo [gray]#/* System documentation */#
+
+== 0x00: System Overview
+I am a system programmer interested in the low-level "magic" that makes hardware useful. I value code that is readable, documented and resource-efficient.
+
+== 0x01: Knowledge base index
+// This is your main navigation for your writings
+[cols="1,3", options="header"]
+|===
+| Module | Description
+| link:./kernel/[Kernel Dev] | Notes on paging, interrupts, and scheduling.
+| link:./embedded/[Embedded] | Microcontroller experiments and driver notes.
+| link:./tooling/[Tooling] | Custom scripts and debugging workflows.
+|===
+
+== 0x02: Current Lab Status
+* **Active Hardware:** STM32F4 Discovery Board.
+* **Focus:** Writing a UART driver from scratch using only the datasheet.
+* **Reading:** _The Design of the UNIX Operating System_ by Maurice Bach.
+
+== 0x03: Technical Projects
+[quote, Project: NLFS]
+____
+A tiny functional File System made for x64 Linux kernel.
+
+*Source*: link:{github-url}/nlfs[GitHub] (still private)
+____
+
+[gray]#// Add more later#
+
+'''
+
+include::include/footer.adoc[]
